@@ -14,5 +14,6 @@ let passwrd;
 // symbol -> denote uniqueness
 // object -> 
 
+
 console.table([typeof state, typeof age, typeof passwrd]);
 
